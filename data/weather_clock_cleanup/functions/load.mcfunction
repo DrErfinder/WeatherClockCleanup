@@ -1,0 +1,2 @@
+function weather_clock:uninstall
+function weather_clock_cleanup:cleanup
