@@ -1,5 +1,5 @@
 # Weather Clock  Cleanup
-You have no idea what's the weather? With this Datapack a clock will tell you.
+Cleanup tool for Weather Clock.
 
 ## How it works
 * This removes any traces (Names and Tags) left over by Weather Clock.
